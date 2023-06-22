@@ -1,6 +1,6 @@
 # ESP-CF
 ![Logo of ESP-CF](https://github.com/Pepe-57/esp-cf/blob/main/esp-cf_logo.jpg)
-A custom firmware(before os) that is designed to run on ESP8266s. Written in MicroPython. ESP-CF is __completely free__ to use. The previous name 'ESP-OS', has been updated to 'ESP-CF' to better reflect it as a custom firmware rather than a full-fledged operating system. 'ESP-CF' stands for '__ESP Custom Firmware__'. 
+A custom firmware(before os) that is designed for ESP8266. Written in MicroPython. ESP-CF is __completely free__ to use. The previous name 'ESP-OS', has been updated to 'ESP-CF' to better reflect it as a custom firmware rather than a full-fledged operating system. 'ESP-CF' stands for '__ESP Custom Firmware__'. 
 ### !THE CURRENT VERSIONS IS UNDER DEVELOPMENT. THIS IS NOT THE FINAL VERSION. IT CAN BE BUGGY!
 ## Applications:
 - Calculator: Perform basic mathematical operations such as addition, subtraction, multiplication, division and square root.
