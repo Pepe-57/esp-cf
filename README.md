@@ -1,7 +1,7 @@
 # ESP-OS
 An operating system that is designed to run on ESP8266s. Written in MicroPython.
 
-### !THE CURRENT VERSION IS UNDER DEVELOPMENT. THIS IS NOT THE FINAL VERSION. IT CAN BE BUGGY!
+### !THE CURRENT VERSIONs IS UNDER DEVELOPMENT. THIS IS NOT THE FINAL VERSION. IT CAN BE BUGGY!
 ## Applications:
 - Calculator: Perform basic mathematical operations such as addition, subtraction, multiplication, division and square root.
 - Settings: Configure CPU clockspeed and WiFi settings.
@@ -17,5 +17,9 @@ The console allows you to enter and execute them. Use the following commands:
 - ip: Get the IP address of the ESP8266.
 - settings: Open the settings program.
 - systeminfo: Display information about the system.
-
+## Versions
+- Dev 1.0 (Released)
+- Dev 1.1 (Work in progress)
+- Dev 1.2 (Coming)
+- Release 1.0 (Exp. Before 2024)
 #### More text is coming over time.
