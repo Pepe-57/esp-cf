@@ -19,7 +19,7 @@ The console allows you to enter and execute them. Use the following commands:
 - systeminfo: Display information about the system.
 ## Versions
 - Dev 1.0 (Released)
-- Dev 1.1 (Work in progress)
-- Dev 1.2 (Coming)
+- Dev 1.1 (Work in progress, exp. end of June)
+- Dev 1.2 (Coming, exp. in July)
 - Release 1.0 (Exp. Before 2024)
 #### More text is coming over time.
