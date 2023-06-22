@@ -1,4 +1,5 @@
 # ESP-OS
+![Logo of ESP-OS](https://github.com/Pepe-57/esp-os/blob/main/esp-os_logo.jpeg)
 An operating system that is designed to run on ESP8266s. Written in MicroPython. ESP-OS is __completely free__ to use.
 ### !THE CURRENT VERSIONS IS UNDER DEVELOPMENT. THIS IS NOT THE FINAL VERSION. IT CAN BE BUGGY!
 ## Applications:
