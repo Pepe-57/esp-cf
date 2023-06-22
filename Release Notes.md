@@ -9,4 +9,4 @@
   - Console: Execute commands
   - Desktop: Main interface to access different programs.
 - Known issues:
-  - When executed 'systeminfo' command, 'None' appears in the last row.
+  - When executed 'systeminfo' command, 'None' appears in the last line.
