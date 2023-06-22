@@ -1,6 +1,6 @@
 # Release Notes
 
-## Name chance to ESP-CF (23.6.2023)
+## Name chanced to ESP-CF (23.6.2023)
 The name of the ESP-OS has officially changed to 'ESP-CF' because its more like a custom firmware that an operating system.
 
 ## Development Version 1.0 (20.6.2023)
