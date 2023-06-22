@@ -7,7 +7,7 @@ A custom firmware(before os) that is designed for ESP8266. Written in MicroPytho
 - Settings: Configure CPU clockspeed and WiFi settings.
 - SysInfo: View information about the system.
 - Console: Enter console mode to execute commands.
-- Shutdown: Shuts down the os, but not the ESP8266
+- Shutdown: Shuts down the firmware, but not the ESP8266
 ## Console commands
 The console allows you to enter and execute them. Use the following commands:
 - help: Display a list of available commands.
