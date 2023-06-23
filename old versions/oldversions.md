@@ -1,6 +1,6 @@
 ## This folder contains old versions of ESP-CF
 List of old versions:
-  - None
+  - Dev 1.0
 
 List of unsupported versions:
   - None
