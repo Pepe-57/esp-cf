@@ -17,9 +17,13 @@ The console allows you to enter and execute them. Use the following commands:
 - ip: Get the IP address of the ESP8266.
 - settings: Open the settings program.
 - systeminfo: Display information about the system.
+- update: Provides information about the current version and instructions for downloading the latest version from [GitHub](https://github.com/Pepe-57/esp-cf).
+- blink 'speed' 'times': Blinks the LED at a specified speed and number of times.
+- repeat 'word': Repeats a given word.
+- run 'program': Launches the specified program (calculator, settings, sysinfo, console).
+- programs: Displays the available programs.
 ## Versions
 - Dev 1.0 (Released)
-- Dev 1.1 (Work in progress, exp. in late June)
-- Dev 1.2 (Coming, exp. in July)
+- Dev 1.1 (Released)
+- Dev 1.2 (Work in progress, exp. in July)
 - Release 1.0 (Exp. Before 2024)
-#### More text is coming over time.
