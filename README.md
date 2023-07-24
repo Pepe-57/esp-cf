@@ -30,4 +30,4 @@ The console allows you to enter and execute them. Use the following commands:
 - Dev 1.0 (Released)
 - Dev 1.1 (Released)
 - Dev 1.2 (Cancelled)
-- Release 1.0 (Exp. Before 2024)
+- Release 1.0 (Work in progress, Exp. Before 2024)
