@@ -26,7 +26,8 @@ The console allows you to enter and execute them. Use the following commands:
 - run 'program': Launches the specified program (calculator, settings, sysinfo, console).
 - programs: Displays the available programs.
 ## Versions
+### !Version development is delayed due another project!
 - Dev 1.0 (Released)
 - Dev 1.1 (Released)
-- Dev 1.2 (Work in progress, exp. in July)
+- Dev 1.2 (Cancelled)
 - Release 1.0 (Exp. Before 2024)
