@@ -28,6 +28,7 @@ The console allows you to enter and execute them. Use the following commands:
 ## Versions
 ### !Version development is delayed due another project!
 - Dev 1.0 (Released)
-- Dev 1.1 (Released)
+- Dev 1.1 (Released, Recommended version)
 - Dev 1.2 (Cancelled)
+- C-Edition 1.0 (Released, Latest)
 - Release 1.0 (Work in progress, Exp. Before 2024)
