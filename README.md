@@ -26,9 +26,9 @@ The console allows you to enter and execute them. Use the following commands:
 - run 'program': Launches the specified program (calculator, settings, sysinfo, console).
 - programs: Displays the available programs.
 ## Versions
-### !Version development is delayed due another project!
+### Release 1.0 will be written in c++
 - Dev 1.0 (Released)
 - Dev 1.1 (Released, Recommended version)
 - Dev 1.2 (Cancelled)
 - C-Edition 1.0 (Released, Latest)
-- Release 1.0 (Work in progress, Exp. Before 2024)
+- Release 1.0 (Work in progress)
