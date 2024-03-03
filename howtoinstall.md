@@ -3,7 +3,7 @@
 ## Requirements
 - MicroPython IDE, were are using [Thonny IDE](https://github.com/thonny/thonny/releases)
 - ESP8266 or ESP32(Not tested)
-- MicroPython compatible firwmare, [ESP8266 Firmware](https://micropython.org/download/?mcu=esp8266), [ESP32 Firmware](https://micropython.org/download/?mcu=esp32)
+- MicroPython compatible firmware, [ESP8266 Firmware](https://micropython.org/download/?mcu=esp8266), [ESP32 Firmware](https://micropython.org/download/?mcu=esp32)
 ## Installation Steps
 1. Download the [ESP-CF](https://github.com/Pepe-57/esp-cf) and Thonny IDE.
 2. Install Thonny IDE.
