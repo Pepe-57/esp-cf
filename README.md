@@ -1,7 +1,7 @@
 # ESP-CF
 ![Logo of ESP-CF](https://github.com/Pepe-57/esp-cf/blob/main/esp-cf_logo.jpg)
 A custom firmware(before os) that is designed for ESP8266. Written in MicroPython. ESP-CF is __completely free__ to use. The previous name 'ESP-OS', has been updated to 'ESP-CF' to better reflect it as a custom firmware rather than a full-fledged operating system. 'ESP-CF' stands for '__ESP Custom Firmware__'. 
-### !THE CURRENT VERSION IS UNDER DEVELOPMENT. THIS IS NOT THE FINAL VERSION. IT CAN BE BUGGY!
+### !THIS PROJECT IS DISCONTINUED! [NEW VERSION HERE](https://github.com/Pepe-57/esp-os)
 ## Compatibility
 - Tested and fully working on ESP8266.
 - Not tested on ESP32. It should work but i can't guarantee it.
@@ -31,4 +31,4 @@ The console allows you to enter and execute them. Use the following commands:
 - Dev 1.1 (Released, Recommended version)
 - Dev 1.2 (Cancelled)
 - C-Edition 1.0 (Released, Latest)
-- Release 1.0 (Work in progress)
+- Release 1.0 ([ESP-OS](https://github.com/Pepe-57/esp-os))
