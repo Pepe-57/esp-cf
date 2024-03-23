@@ -4,10 +4,10 @@ A custom firmware(before os) that is designed for ESP8266. Written in MicroPytho
 ### !THIS PROJECT IS DISCONTINUED! [NEW VERSION HERE](https://github.com/Pepe-57/esp-os)
 ## Compatibility
 - Tested and fully working on ESP8266.
-- Not tested on ESP32. It should work but i can't guarantee it.
+- Not tested on ESP32. It should work but I can't guarantee it.
 ## Applications:
-- Calculator: Perform basic mathematical operations such as addition, subtraction, multiplication, division and square root.
-- Settings: Configure CPU clockspeed and WiFi settings.
+- Calculator: Perform basic mathematical operations such as addition, subtraction, multiplication, division, and square root.
+- Settings: Configure CPU clock speed and WiFi settings.
 - SysInfo: View information about the system.
 - Console: Enter console mode to execute commands.
 - Shutdown: Shuts down the firmware, but not the ESP8266
@@ -26,9 +26,9 @@ The console allows you to enter and execute them. Use the following commands:
 - run 'program': Launches the specified program (calculator, settings, sysinfo, console).
 - programs: Displays the available programs.
 ## Versions
-### Release 1.0 will be written in c++
+### Release 1.0 will be written in C++
 - Dev 1.0 (Released)
-- Dev 1.1 (Released, Recommended version)
+- Dev 1.1 (Released, Recommended version of ESP-CF)
 - Dev 1.2 (Cancelled)
 - C-Edition 1.0 (Released, Latest)
-- Release 1.0 ([ESP-OS](https://github.com/Pepe-57/esp-os))
+- Release 1.0 ([ESP-OS](https://github.com/Pepe-57/esp-os), Recommended)
